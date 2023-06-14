@@ -1,0 +1,15 @@
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\bin\Debug\net6.0\deaIssueResolver.exe
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\bin\Debug\net6.0\deaIssueResolver.deps.json
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\bin\Debug\net6.0\deaIssueResolver.runtimeconfig.json
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\bin\Debug\net6.0\deaIssueResolver.dll
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\bin\Debug\net6.0\deaIssueResolver.pdb
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.csproj.AssemblyReference.cache
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.AssemblyInfoInputs.cache
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.AssemblyInfo.cs
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.csproj.CoreCompileInputs.cache
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.dll
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\refint\deaIssueResolver.dll
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.pdb
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\deaIssueResolver.genruntimeconfig.cache
+C:\Users\zoron\source\repos\deaIssueResolver\deaIssueResolver\obj\Debug\net6.0\ref\deaIssueResolver.dll
